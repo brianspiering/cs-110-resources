@@ -7,7 +7,6 @@ Python in The Cloud
 ------
 
 - https://repl.it An interactive enviroment in the browser
-- [Colaboratory](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/basic_features_overview.ipynb) Google Docs for Python Notebooks
 
 Python on your computer
 ------
