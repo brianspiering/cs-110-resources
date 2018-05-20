@@ -6,7 +6,7 @@ Syllabus <br> CS 110: Introduction to Computer Science <br> University of San Fr
 Course Description
 -----
 
-This course is a general introduction to computing and programming. You''ll learn the fundementals of writing software. Along the way, we'll cover: variables, functions, conditionals, control flow, data types, input/output.
+This course is a general introduction to computing and programming. You''ll learn the fundamentals of writing software. Along the way, we'll cover: variables, functions, conditionals, control flow, data types, input/output.
 
 Logistics
 -----
@@ -21,20 +21,37 @@ Email: ajin2@dons.usfca.edu
 Office: TBD  
 Office Hours: TBD  
 
-Days and Time: Section 1: Tues & Thurs  2:00 – 6:35 pm, TBD  
+Days and Time: Section 1: Tues & Thurs  2:00 – 6:35 pm, Lo Schiavo Science G12    
 Prerequisite: Math 109 (calculus), either previously or simultaneously, or CS107 (Mobile apps and the Web) previously.
 
------
+----
 Learning Outcomes
 ----
 
 1. Learn how to design and write computer programs to solve real-world problems.   
 1. Get a general introduction to the field of Computer Science.
-1. Given existing code, learn to identify possible errors. Also, be able to discuss the advatanges and disadvantages of different solutions.
+1. Given existing code, learn to identify possible errors. Also, be able to discuss the advantages and disadvantages of different solutions.
 1. Learn the fundamentals of the Python programming language.
 1. Gain exposure to other programming languages, such as HTML (HyperText Markup Language) and CSS (Cascading Style Sheets).
 
 -----
+Course Schedule
+-------
+
+1. [05/22] Welcome | Computing Overview | Binary 
+2. [05/24] Intro to Python | Variables | Mathematical Operations
+3. [05/29] Booleans | Conditionals | User Input 
+4. [05/31] For Loops | Turtle 
+5. [06/03] While Loops | Functions 
+6. [06/07] Strings | Lists 
+7. [06/12] Midterm Review | Midterm 
+8. [06/14] Files | Dictionaries
+9. [06/19] Exceptions | The Web | HTML & CSS
+10. [06/21] Object Oriented Programming (OOP)
+11. [06/26] Recursion | Final Exam Review
+12. [06/28] Final Exam  
+
+----
 Grading
 ----
 
@@ -69,11 +86,12 @@ Late submissions will not be accepted, unless the professor approves or receives
 
 Attendance is mandatory. Absences are only excused in cases of family or medical emergency, with written proof.
 
------
+----
 Textbooks
 ----
 
 Readings will come from two books:
+
 - [Think Python 2nd Edition](http://greenteapress.com/wp/think-python-2e/) by Allen B. Downey
 - [How to Think Like a Computer Scientist: Interactive Edition](http://interactivepython.org/runestone/static/thinkcspy/index.html)
 
