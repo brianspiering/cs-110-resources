@@ -29,16 +29,16 @@ Learning Outcomes
 ----
 
 1. Learn how to design and write computer programs to solve real-world problems.   
-1. Get a general introduction to the field of Computer Science.
-1. Given existing code, learn to identify possible errors. Also, be able to discuss the advantages and disadvantages of different solutions.
+1. Learn to identify possible errors in existing code. Also, be able to discuss the advantages and disadvantages of different solutions.
 1. Learn the fundamentals of the Python programming language.
-1. Gain exposure to other programming languages, such as HTML (HyperText Markup Language) and CSS (Cascading Style Sheets).
+1. Introduction to the field of Computer Science.
+1. Exposure to other programming languages, such as HTML (HyperText Markup Language) and CSS (Cascading Style Sheets).
 
 -----
 Course Schedule
 -------
 
-1. [05/22] Welcome | Computing Overview | Binary 
+1. [05/22] Welcome | Computing Overview | Binary | Intro to Python
 2. [05/24] Intro to Python | Variables | Mathematical Operations
 3. [05/29] Booleans | Conditionals | User Input 
 4. [05/31] For Loops | Turtle 
